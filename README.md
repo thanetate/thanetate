@@ -3,11 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python]
+  - [Praciting DS & Algos in Python] (https://github.com/thanetate/DS-A)
 - <b>Working With API's</b>
   - [Project #1] (https://github.com/thanetate/API)
 - <b>C++</b>
-   - [Project #1]
+   - [Project #1] (https://github.com/thanetate/C-Project-1)
+   - [Project #2] (https://github.com/thanetate/C-Project-2)
 - <b>Python</b>
    - [Project #1]
 
