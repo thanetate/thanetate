@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python]
 - <b>Working With API's</b>
-  - [Project #1]
+  - [Project #1] (https://github.com/thanetate/API)
 - <b>C++</b>
    - [Project #1]
 - <b>Python</b>
