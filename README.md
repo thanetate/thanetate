@@ -9,8 +9,8 @@
 - <b>C++</b>
    - [Project #1] (https://github.com/thanetate/C-Project-1)
    - [Project #2] (https://github.com/thanetate/C-Project-2)
-- <b>Python</b>
-   - [Project #1]
+- <b>C</b>
+   - [Creating a Shell]
 
 <h2> 🤳 Connect with me:</h2>
 
