@@ -7,7 +7,7 @@
 - <b>Working With API's</b>
   - [Project #1] 
 - <b>C++</b>
-   - [OOP Library Database] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
+   - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
    - [Project #2] 
 - <b>C</b>
    - [Creating a Shell]
