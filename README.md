@@ -7,7 +7,7 @@
 - <b>Working With API's</b>
   - [Project #1] (https://github.com/thanetate/API)
 - <b>C++</b>
-   - [Project #1] (https://github.com/thanetate/C-Project-1)
+   - [OOP Library Database] (https://github.com/thanetate/Library-Database-Project)
    - [Project #2] (https://github.com/thanetate/C-Project-2)
 - <b>C</b>
    - [Creating a Shell]
