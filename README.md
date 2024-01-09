@@ -2,15 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python] 
-- <b>Working With API's</b>
-  - [Project #1] 
+- <b>Full Stack Web Application</b>
+  - [Project #1]
+- <b>My Portfolio Website</b>
+   - [HTML, CSS, JS}
 - <b>C++</b>
    - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
    - [Project #2] 
 - <b>C</b>
    - [Creating a Shell]
+
 
 <h2> 🤳 Connect with me:</h2>
 
