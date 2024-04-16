@@ -7,10 +7,10 @@
 - <b>My Portfolio Website</b>
    - [HTML, CSS, JS}
 - <b>C++</b>
+   - [Linked List & Binary Search Tree] ([https://github.com/thanetate/DSA-Final-Project] (https://github.com/thanetate/DSA-Final-Project))
    - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
-   - [Project #2] 
 - <b>C</b>
-   - [Creating a Shell]
+   - [Shell Project]
 
 
 <h2> 🤳 Connect with me:</h2>
