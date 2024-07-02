@@ -3,15 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web Application</b>
-  - [Project #1]
+  - [Theory Clothing Brand]
 - <b>My Portfolio Website</b>
-   - [HTML, CSS, JS}
+   - [Personal Portfolio Website}
 - <b>C++</b>
    - [Linked List & Binary Search Tree] (https://github.com/thanetate/DSA-Final-Project)
    - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
 - <b>C</b>
    - [Shell Project]
-
 
 <h2> 🤳 Connect with me:</h2>
 
