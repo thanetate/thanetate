@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web Application</b>
-  - [Theory Clothing Brand]
+  - (https://theory-climbing.vercel.app/)
 - <b>My Portfolio Website</b>
-   - [Personal Portfolio Website}
+   - (https://thane-tate.vercel.app/)
 - <b>C++</b>
    - [Linked List & Binary Search Tree] (https://github.com/thanetate/DSA-Final-Project)
    - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
