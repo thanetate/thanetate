@@ -8,7 +8,7 @@
    - (https://thane-tate.vercel.app/)
 - <b>C++</b>
    - [Linked List & Binary Search Tree] (https://github.com/thanetate/DSA-Final-Project)
-   - [Library Loan Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
+   - [Library Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
 - <b>C</b>
    - [Shell Project]
 
