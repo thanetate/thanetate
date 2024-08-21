@@ -10,7 +10,7 @@
    - [Linked List & Binary Search Tree] (https://github.com/thanetate/DSA-Final-Project)
    - [Library Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
 - <b>C</b>
-   - [Shell Project]
+   - [Shell Project] (https://github.com/thanetate/Shell-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
