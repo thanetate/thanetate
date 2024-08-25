@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Portfolio Website</b>
-   - [(https://thane-tate.vercel.app/](https://github.com/thanetate/Responsive-Portfolio-Website)
+   - [(https://thanetate.com//](https://github.com/thanetate/Responsive-Portfolio-Website)
 - <b>Full Stack Web Application</b>
   - [(https://theory-climbing.vercel.app/)](https://github.com/thanetate/Clothing-Website)
 - <b>C++</b>
