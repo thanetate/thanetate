@@ -7,10 +7,10 @@
 - <b>Full Stack Web Application</b>
   - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
 - <b>C++</b>
-   - [Linked List & Binary Search Tree] (https://github.com/thanetate/DSA-Final-Project)
-   - [Library Management System] ([https://github.com/thanetate/Library-Database-Project](https://github.com/thanetate/LLMS))
+   - [Linked List & Binary Search Tree](https://github.com/thanetate/DSA-Final-Project)
+   - [Library Management System](https://github.com/thanetate/LLMS)
 - <b>C</b>
-   - [Shell Project] (https://github.com/thanetate/Shell-Project)
+   - [Shell Project](https://github.com/thanetate/Shell-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
