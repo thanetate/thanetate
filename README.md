@@ -5,7 +5,7 @@
 
 - 📚 I'm currently attending the University of North Texas, studying Computer Science and Mathematics. 
 - 🌱 I'm on track for learning more about Full-Stack Web Development, Data structures and Algorithms, and RESTful API's.
-- 🧗🏻‍♂️ In my free time, I like to go Rock Climbing.
+- 🧗🏻‍♂️ In my free time, I like to go rock climbing.
 - 👨🏼‍💻 Projects
   - [My Portfolio Website](https://github.com/thanetate/Responsive-Portfolio-Website)
   - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
