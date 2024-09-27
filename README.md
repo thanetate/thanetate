@@ -17,7 +17,6 @@
 #### Connect with me
 
 <a href="https://www.linkedin.com/in/thanetate/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://www.instagram.com/thane.tate/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="mailto:thanetate1@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 <br/><br/>
@@ -33,10 +32,10 @@
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
   <img align="left" src="https://img.shields.io/badge/C-1c1c1c?&style=flat-square&logo=C" />
-  <img align="left" src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />
+  <img align="left" src="https://img.shields.io/badge/C++-1c1c1c?&style=flat-square&logo=C%2B%2B&logoColor=00599C" />
   <img align="left" src="https://img.shields.io/badge/Go-1c1c1c?&style=flat-square&logo=Go" />
-  <img align="left" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
-  <img align="left" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img align="left" src="https://img.shields.io/badge/HTML-1c1c1c?&style=flat-square&logo=HTML5" />
+  <img align="left" src="https://img.shields.io/badge/CSS-1c1c1c?&style=flat-square&logo=CSS3&logoColor=1572B6" />
 </p>
   
 <br/><br/>
