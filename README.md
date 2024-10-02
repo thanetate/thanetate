@@ -9,6 +9,7 @@
 - 👨🏼‍💻 Projects
   - [My Portfolio Website](https://github.com/thanetate/Responsive-Portfolio-Website)
   - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
+  - [Reading Realm](https://github.com/thanetate/Reading-Realm)
   - [Linked List & Binary Search Tree](https://github.com/thanetate/DSA-Final-Project)
   - [Library Management System](https://github.com/thanetate/LLMS)
   - [Shell Project](https://github.com/thanetate/Shell-Project)
