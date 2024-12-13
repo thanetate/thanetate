@@ -38,7 +38,7 @@
   
 <br/><br/>
 
-<h4>Client Side Libraries & Frameworks</h4>
+<h4>Front End/h4>
 <p>
    <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
    <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
@@ -46,7 +46,7 @@
   
 <br/><br/>
 
-<h4>Server Side Libraries & Frameworks</h4>
+<h4>Back End</h4>
 <p>
    <img align="left" src="https://img.shields.io/badge/Node-1c1c1c?&style=flat-square&logo=Node.js" />
    <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
