@@ -38,7 +38,7 @@
   
 <br/><br/>
 
-<h4>Front End/h4>
+<h4>Front End</h4>
 <p>
    <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
    <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
