@@ -9,6 +9,7 @@
 - 👨🏼‍💻 Projects
   - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
   - [Reading Realm](https://github.com/thanetate/Reading-Realm)
+  - [Library Management System](https://github.com/thanetate/Library-Management-System)
  
 
 #### Connect with me
