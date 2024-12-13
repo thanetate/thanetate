@@ -8,7 +8,7 @@
 - 🧗🏻‍♂️ In my free time, I like to go rock climbing.
 - 👨🏼‍💻 Projects
   - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
-  - [Reading Realm](https://github.com/thanetate/Reading-Realm)
+  - [Reading Realm](https://github.com/ksheahen/Reading-Realm)
   - [Library Management System](https://github.com/thanetate/Library-Management-System)
  
 
