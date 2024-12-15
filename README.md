@@ -70,3 +70,8 @@
 </p>
 
 <br/><br/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=thanetate&icon=0&color=1)](https://visitcount.itsvg.in)
+
