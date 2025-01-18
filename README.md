@@ -1,7 +1,7 @@
 ### Hi, I'm Thane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://thanetate.dev)
 
-<h3>I'm an aspiring Full-Stack Software Developer ツ</h3>
+<h3>I'm a Full-Stack Software Developer ツ</h3>
 
 - 📚 I'm currently attending the University of North Texas, studying Computer Science and Mathematics. 
 - 🌱 I'm on track for learning more about Full-Stack Web Development, Data structures and Algorithms, and RESTful API's.
