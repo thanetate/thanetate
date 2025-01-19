@@ -7,7 +7,7 @@
 - 🌱 I'm on track for learning more about Full-Stack Web Development, Data structures and Algorithms, and RESTful API's.
 - 🧗🏻‍♂️ In my free time, I like to go rock climbing.
 - 👨🏼‍💻 Projects
-  - [Theory Climbing](https://github.com/thanetate/Clothing-Website)
+  - [Theory Climbing](https://github.com/thanetate/Theory-v2)
   - [Reading Realm](https://github.com/ksheahen/Reading-Realm)
   - [Library Management System](https://github.com/thanetate/Library-Management-System)
  
