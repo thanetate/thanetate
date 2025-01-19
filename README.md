@@ -69,9 +69,4 @@
    <img align="left" src="https://img.shields.io/badge/Figma-1c1c1c?&style=flat-square&logo=Figma" />
 </p>
 
-<br/><br/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=thanetate&icon=0&color=1)](https://visitcount.itsvg.in)
 
