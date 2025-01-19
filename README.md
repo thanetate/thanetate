@@ -4,7 +4,7 @@
 <h3>I'm a Full-Stack Software Developer ツ</h3>
 
 - 📚 I'm currently attending the University of North Texas, studying Computer Science and Mathematics. 
-- 🌱 I'm on track for learning more about Full-Stack Web Development, Data structures and Algorithms, and RESTful API's.
+- 🌱 I'm on track for learning more about Full-Stack Web Development, C# and the .NET Framework, and Vim Motions. 
 - 🧗🏻‍♂️ In my free time, I like to go rock climbing.
 - 👨🏼‍💻 Projects
   - [Theory Climbing](https://github.com/thanetate/Theory-v2)
