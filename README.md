@@ -50,8 +50,8 @@
    <img align="left" src="https://img.shields.io/badge/Node-1c1c1c?&style=flat-square&logo=Node.js" />
    <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
    <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&style=flat-square&logo=Supabase" />
+   <img align="left" src="https://img.shields.io/badge/PostgreSQL-1c1c1c?&style=flat-square&logo=PostgreSQL" />
    <img align="left" src="https://img.shields.io/badge/MongoDB-1c1c1c?&style=flat-square&logo=MongoDB" />
-   <img align="left" src="https://img.shields.io/badge/SQL-1c1c1c?&style=flat-square&logo=SQL" />
 </p>
 
 <br/><br/>
