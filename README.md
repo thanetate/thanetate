@@ -29,7 +29,6 @@
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
-  <img align="left" src="https://img.shields.io/badge/C-1c1c1c?&style=flat-square&logo=C" />
   <img align="left" src="https://img.shields.io/badge/C++-1c1c1c?&style=flat-square&logo=C%2B%2B&logoColor=00599C" />
   <img align="left" src="https://img.shields.io/badge/Go-1c1c1c?&style=flat-square&logo=Go" />
   <img align="left" src="https://img.shields.io/badge/HTML-1c1c1c?&style=flat-square&logo=HTML5" />
@@ -40,7 +39,6 @@
 
 <h4>Front End</h4>
 <p>
-   <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
    <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
 </p>
   
@@ -48,6 +46,7 @@
 
 <h4>Back End</h4>
 <p>
+   <img align="left" src="https://img.shields.io/badge/.NET-1c1c1c?&style=flat-square&logo=.NET" />
    <img align="left" src="https://img.shields.io/badge/Node-1c1c1c?&style=flat-square&logo=Node.js" />
    <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
    <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&style=flat-square&logo=Supabase" />
@@ -59,12 +58,9 @@
 
 <h4>Other Technologies</h4>
 <p>
+   <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
    <img align="left" src="https://img.shields.io/badge/Vercel-1c1c1c?&style=flat-square&logo=Vercel" />
    <img align="left" src="https://img.shields.io/badge/Visual Studio Code-1c1c1c?&style=flat-square&logo=Visual Studio Code" />
-   <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
-   <img align="left" src="https://img.shields.io/badge/GitHub-1c1c1c?&style=flat-square&logo=GitHub" />
-   <img align="left" src="https://img.shields.io/badge/GitLab-1c1c1c?&style=flat-square&logo=GitLab" />
-   <img align="left" src="https://img.shields.io/badge/Infisical-1c1c1c?&style=flat-square&logo=Infisical" />
    <img align="left" src="https://img.shields.io/badge/Jira-1c1c1c?&style=flat-square&logo=Jira" />
    <img align="left" src="https://img.shields.io/badge/Figma-1c1c1c?&style=flat-square&logo=Figma" />
 </p>
