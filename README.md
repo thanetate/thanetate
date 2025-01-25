@@ -48,7 +48,7 @@
 <p>
    <img align="left" src="https://img.shields.io/badge/.NET-1c1c1c?&style=flat-square&logo=.NET" />
    <img align="left" src="https://img.shields.io/badge/Node-1c1c1c?&style=flat-square&logo=Node.js" />
-   <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express.js" />
+   <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
    <img align="left" src="https://img.shields.io/badge/PostgreSQL-1c1c1c?&style=flat-square&logo=PostgreSQL" />
    <img align="left" src="https://img.shields.io/badge/MongoDB-1c1c1c?&style=flat-square&logo=MongoDB" />
 </p>
