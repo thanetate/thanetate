@@ -7,20 +7,12 @@
     def __init__(self):
       self.based_in = "Dallas, Texas"
       self.major = "Computer Science"
+      self.interests = ["TypeScript", "React", "C#", "ASP.NET Core"]
       self.hobbies = ["Coding", "Rock Climbing"]
 ```
 ## 👨🏼‍💻 About me
 
-> I'm currently a student at the University of North Texas studying Computer Science along with a minor in Mathematics. I'm currently sharpening my full-stack web development skills by contributing to Mapo, a browser-based mind mapping tool. I enjoy building useful, user-friendly software and always eager to learn new things and more about technology. 
+> I'm currently a student at the University of North Texas studying Computer Science along with a minor in Mathematics. I'm currently sharpening my full-stack web development skills by contributing to Mapo, a browser-based mind mapping tool. If you wish to get touch with me, shoot me message on my [LinkedIn page](https://www.linkedin.com/in/thanetate/)!
 
-## Projects
-  - [Mapo](https://github.com/bensivo/mapo)
-  - [Theory Climbing](https://github.com/thanetate/Theory-v2)
-  - [Reading Realm](https://github.com/ksheahen/Reading-Realm)
- 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/thanetate/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:thanetate1@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-
-<br/><br/>
+##
+![](https://komarev.com/ghpvc/?username=thanetate&color=red)
