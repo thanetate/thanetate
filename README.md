@@ -7,8 +7,8 @@
     def __init__(self):
       self.based_in = "Dallas, Texas"
       self.major = "Computer Science"
-      self.interests = ["TypeScript", "React", "C#", "ASP.NET Core"]
       self.hobbies = ["Coding", "Rock Climbing"]
+      self.interests = ["TypeScript", "React", "C#", "ASP.NET Core"]
 ```
 ## 👨🏼‍💻 About me
 
