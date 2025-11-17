@@ -8,7 +8,7 @@
       self.based_in = "Dallas, Texas"
       self.major = "Computer Science"
       self.hobbies = ["Coding", "Rock Climbing"]
-      self.interests = ["TypeScript", "React", "C#", "ASP.NET Core"]
+      self.interests = ["Neovim", "TypeScript", "React", "Azure"]
 ```
 ## 👨🏼‍💻 About me
 
