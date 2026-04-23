@@ -10,3 +10,4 @@ Currently:
 Previously: 
 - Application Developer Intern @ [Fisher Investments](https://www.fisherinvestments.com)
 - Project @ [mapo](https://github.com/bensivo/mapo)
+- Project @ [data platform](https://github.com/thanetate/data-engineering-platform)
