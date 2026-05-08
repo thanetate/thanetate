@@ -4,7 +4,7 @@ I'm [Thane](https://thanetate.dev), a Platform Engineer based in Dallas, TX.
 
 Currently:
 - Platform Engineer @ [Mirion](https://www.mirion.com/)
-- Portfolio Site @ [thanetate.dev](https://thanetate.dev)
+- Portfolio @ [thanetate.dev](https://thanetate.dev)
 
 Previously: 
 - Data Engineer @ [Fisher Investments](https://www.fisherinvestments.com)
